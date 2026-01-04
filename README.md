@@ -17,6 +17,9 @@ TBD
 
 TBD
 
+Please consult the following link for a tutorial on the prime editing screening done in our preprint (Zhou et al. 2025). 
+https://colab.research.google.com/github/pzhou1729/2026_CRISPRscreen_GeneticsBootcamp/blob/main/LDLR_PE_tutorial.ipynb#scrollTo=b20a9f4f-fef1-40cd-8b79-b14e7108f58e
+
 ## Recommended reading
 
 A new era in functional genomics screens (https://www.nature.com/articles/s41576-021-00409-w)
