@@ -11,13 +11,19 @@ tools that can inform target selection and library design and 2) explore gene ta
 
 ## Course schedule
 
-TBD
+8:50 am-9:00 am: Meet in the VSC (NRB) Lobby 
+9:00 am-9:45 am: CRISPR screening lecture (VSC 230)
+9:45 am-10:00 am: Q+A (VSC 230)
+10:00 - 12:00 pm: Morning lab: CRISPR screen design (VSC 230)
+12:00 -1:00 pm: Lunch and mini-presentations from lab members (VSC 230)
+1:00 - 3:30 pm: Afternoon lab: CRISPR screen analysis and data exploration (VSC 230)
+3:30 - 4:00 pm: Wrap-up (VSC 230)
+
 
 ## Materials
 
-TBD
 
-Please consult the following link for a tutorial on the prime editing screening done in our preprint (Zhou et al. 2025). 
+Please consult the following link for a tutorial on the prime editing screening done in our preprint for the afternoon lab (Zhou et al. 2025). 
 https://colab.research.google.com/github/pzhou1729/2026_CRISPRscreen_GeneticsBootcamp/blob/main/LDLR_PE_tutorial.ipynb#scrollTo=b20a9f4f-fef1-40cd-8b79-b14e7108f58e
 
 ## Recommended reading
