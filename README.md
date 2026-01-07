@@ -11,13 +11,13 @@ tools that can inform target selection and library design and 2) explore gene ta
 
 ## Course schedule
 
-8:50 am-9:00 am: Meet in the VSC (NRB) Lobby 
-9:00 am-9:45 am: CRISPR screening lecture (VSC 230)
-9:45 am-10:00 am: Q+A (VSC 230)
-10:00 - 12:00 pm: Morning lab: CRISPR screen design (VSC 230)
-12:00 -1:00 pm: Lunch and mini-presentations from lab members (VSC 230)
-1:00 - 3:30 pm: Afternoon lab: CRISPR screen analysis and data exploration (VSC 230)
-3:30 - 4:00 pm: Wrap-up (VSC 230)
+- 8:50 am-9:00 am: Meet in the VSC (NRB) Lobby 
+- 9:00 am-9:45 am: CRISPR screening lecture (VSC 230)
+- 9:45 am-10:00 am: Q+A (VSC 230)
+- 10:00 - 12:00 pm: Morning lab: CRISPR screen design (VSC 230)
+- 12:00 -1:00 pm: Lunch and mini-presentations from lab members (VSC 230)
+- 1:00 - 3:30 pm: Afternoon lab: CRISPR screen analysis and data exploration (VSC 230)
+- 3:30 - 4:00 pm: Wrap-up (VSC 230)
 
 
 ## Materials
