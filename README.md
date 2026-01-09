@@ -7,17 +7,26 @@ CRISPR technologies have revolutionized modern genetics by enabling precise, pro
 systematic gene perturbations, including knockout, knockdown, and overexpression. Coupled with next generation sequencing, these approaches enable quantitative phenotypic readouts at scale. Next generation genome editing technologies such as base and prime editing extend this framework to single nucleotide resolution, providing deeper insights into the genetic variants that shape complex traits. This workshop introduces the design principles and uses cases of CRISPR screening, and provides hands-on experience analyzing screen data, interpreting genetic effects, and generating testable hypotheses. 
 
 In this workshop, students will discuss screens performed by the lab and in the scientific literature. Finally, students will participate in two dry lab sessions where they will 1) get exposed to the computational 
-tools that can inform target selection and library design and 2) explore gene targeting and variant scanning CRISPR screening datasets.
+tools that can inform screen design and data analysis and 2) explore a CRISPR screening dataset from our lab's recent preprint. 
 
 ## Course schedule
 
 - 8:50 am-9:00 am: Meet in the VSC (NRB) Lobby 
 - 9:00 am-9:45 am: CRISPR screening lecture (VSC 230)
+  - What tools are used to edit the genome and epigenome?
+  - What are possible readouts of CRISPR screens?
 - 9:45 am-10:00 am: Q+A (VSC 230)
-- 10:00 - 12:00 pm: Morning lab: CRISPR screen design (VSC 230)
+- 10:00 - 12:00 pm: Morning lab: CRISPR screen design and analysis (VSC 230)
+  - CRISPR screen design
+  - MAGeCK demo
 - 12:00 -1:00 pm: Lunch and mini-presentations from lab members (VSC 230)
-- 1:00 - 3:30 pm: Afternoon lab: Exploring a real CRISPR screen (VSC 230)
-- - Test
+  - CRISPR screening for determinants of cardiovascular health
+  - Genome editing for studying protein-protein interactions in a high-throughput manner
+- 1:00 - 3:30 pm: Afternoon lab: CRISPR screen data exploration (VSC 230)
+  - How is the screen designed?
+  - How does it perform?
+  - How does our screen relate to protein structure?
+  - How does our screen compare to other screens?
 - 3:30 - 4:00 pm: Wrap-up (VSC 230)
 
 
