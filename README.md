@@ -16,7 +16,8 @@ tools that can inform target selection and library design and 2) explore gene ta
 - 9:45 am-10:00 am: Q+A (VSC 230)
 - 10:00 - 12:00 pm: Morning lab: CRISPR screen design (VSC 230)
 - 12:00 -1:00 pm: Lunch and mini-presentations from lab members (VSC 230)
-- 1:00 - 3:30 pm: Afternoon lab: CRISPR screen analysis and data exploration (VSC 230)
+- 1:00 - 3:30 pm: Afternoon lab: Exploring a real CRISPR screen (VSC 230)
+- - Test
 - 3:30 - 4:00 pm: Wrap-up (VSC 230)
 
 
