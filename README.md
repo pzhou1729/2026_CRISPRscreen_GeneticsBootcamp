@@ -34,7 +34,12 @@ tools that can inform screen design and data analysis and 2) explore a CRISPR sc
 
 Presentation slides for the lecture, morning, and afternoon labs are included as downloadable files in this GitHub repository.
 
-Please consult the following link for a tutorial on the prime editing screening done in our preprint for the afternoon lab (Zhou et al. 2025). 
+- 0126_GeneticsBootcamp_CRISPRscreening.pptx is the slideshow for the morning lecture. 
+- 0126_GeneticsBootcamp_practicaldemo.pptx is for the first half of the morning lab. 
+
+Please consult the following link for the second half of the morning lab: analyzing CRISPR screen data with MAGeCK: https://colab.research.google.com/github/pzhou1729/2026_CRISPRscreen_GeneticsBootcamp/blob/main/mageck_tutorial.ipynb
+
+Please consult the following link for the afternoon lab: prime editing screening done in our preprint for (Zhou et al. 2025). 
 https://colab.research.google.com/github/pzhou1729/2026_CRISPRscreen_GeneticsBootcamp/blob/main/LDLR_PE_tutorial.ipynb#scrollTo=b20a9f4f-fef1-40cd-8b79-b14e7108f58e
 
 ## Recommended reading
