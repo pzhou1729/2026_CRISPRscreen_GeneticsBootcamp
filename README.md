@@ -34,8 +34,10 @@ tools that can inform screen design and data analysis and 2) explore a CRISPR sc
 
 Presentation slides for the lecture, morning, and afternoon labs are included as downloadable files in this GitHub repository.
 
-- 0126_GeneticsBootcamp_CRISPRscreening.pptx is the slideshow for the morning lecture. 
-- 0126_GeneticsBootcamp_practicaldemo.pptx is for the first half of the morning lab. 
+- 0126_GeneticsBootcamp_CRISPRscreening.pptx is the slideshow for the morning lecture.
+- 0126_GeneticsBootcamp_practicaldemo.pptx is for the first half of the morning lab.
+- 0126_MAGeCK_tutorial.pptx is for the second half of the morning lab.
+- 0126_LDLR_PE.pptx is for the afternoon lab.
 
 Please consult the following link for the second half of the morning lab: analyzing CRISPR screen data with MAGeCK: https://colab.research.google.com/github/pzhou1729/2026_CRISPRscreen_GeneticsBootcamp/blob/main/0126_MAGeCK_tutorial.ipynb
 
